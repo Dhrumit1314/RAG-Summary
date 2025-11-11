@@ -61,7 +61,7 @@ The app will open at `http://localhost:8501`
 ## Project Structure
 
 ```
-MCP/
+Agentic RAG - Summary/
 ├── web_app.py              # Streamlit web application
 ├── cohere_compass.py       # Cohere RAG integration
 ├── document_processor.py   # Document processing utilities
@@ -85,6 +85,7 @@ For detailed setup instructions, see [PHASE1_SETUP.md](PHASE1_SETUP.md)
 ## Support
 
 For issues or questions:
+
 - Check API key configuration in Settings
 - Review error messages in the application
 - Ensure all dependencies are installed correctly
@@ -92,4 +93,3 @@ For issues or questions:
 ---
 
 **Powered by Cohere Compass RAG & Command A**
-
