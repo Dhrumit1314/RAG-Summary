@@ -41,7 +41,7 @@ class StreamlitApp:
     
     def run(self):
         """Run the Streamlit application"""
-        st.title("📄 Model White Paper Summary - FCMV 🤖")
+        st.title("📄 Model White Paper Summary 🤖")
         st.markdown("*Powered by Cohere Compass RAG & Command A*")
         st.markdown("---")
         
@@ -63,7 +63,7 @@ class StreamlitApp:
         st.markdown("---")
         st.markdown(
             f"<div style='text-align: center; color: #666666; padding: 20px;'>"
-            f"© {datetime.now().year} Model White Paper Summary - FCMV. All rights reserved."
+            f"© {datetime.now().year} Model White Paper Summary. All rights reserved."
             "</div>", 
             unsafe_allow_html=True
         )
