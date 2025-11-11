@@ -77,10 +77,6 @@ Agentic RAG - Summary/
 - Cohere API key
 - Dependencies listed in `requirements.txt`
 
-## Documentation
-
-For detailed setup instructions, see [PHASE1_SETUP.md](PHASE1_SETUP.md)
-
 ## Support
 
 For issues or questions:
@@ -91,4 +87,4 @@ For issues or questions:
 
 ---
 
-**Powered by Cohere Compass RAG & Command A**
+**The model is powered by Cohere Compass RAG & Command A**
