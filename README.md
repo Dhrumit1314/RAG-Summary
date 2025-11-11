@@ -67,7 +67,6 @@ Agentic RAG - Summary/
 ├── document_processor.py   # Document processing utilities
 ├── config.py               # Configuration management
 ├── requirements.txt        # Python dependencies
-├── PHASE1_SETUP.md         # Detailed setup guide
 ├── uploads/                # Upload directory (auto-created)
 └── outputs/                # Output directory (auto-created)
 ```
